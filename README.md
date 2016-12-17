@@ -82,7 +82,7 @@ Awesome S/MIME certificate authorities still survive.
   - €17 (2yr, €16 for renewal)
   - €24 (3yr, €22 for renewal)
 - Level:
-  - Email address (domain@sparanoid.com)
+  - Email address (t@sparanoid.com)
 
 ### Professional ID
 
@@ -119,5 +119,5 @@ Awesome S/MIME certificate authorities still survive.
 
 - Price: Free
 - Level:
-  - Email address (domain@sparanoid.com)
+  - Email address (t@sparanoid.com)
 - Note: The certificate will be issued by Comodo, Secorio states that they're a strategic partner of Comodo.
