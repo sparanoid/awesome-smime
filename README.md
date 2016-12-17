@@ -1,25 +1,33 @@
 # Awesome (Survived) S/MIME CA
 
-Awesome S/MIME CA that still survied.
+Awesome S/MIME certificate authorities still survie.
 
 ## [GlobalSign PersonalSign](https://www.globalsign.com/en/secure-email/)
 
 ### PersonalSign 1
 
-- Price: Paid
+- Price: 
+  - $59
+  - $119 (3yr)
 - Level:
   - Email address (t@sparanoid.com)
 
 ### PersonalSign 2
 
-- Price: Paid
+- Price: 
+  - $79
+  - $119 (2yr)
+  - $149 (3yr)
 - Level: 
   - Individuals name (Tunghsiao Liu)
   - Email address (t@sparanoid.com)
 
 ### PersonalSign 2 Pro
 
-- Price: Paid
+- Price: 
+  - $89
+  - $159 (2yr)
+  - $199 (3yr)
 - Level: 
   - Company (Sparanoid, Inc.)
   - Individuals name (Tunghsiao Liu)
@@ -27,7 +35,10 @@ Awesome S/MIME CA that still survied.
 
 ### PersonalSign 2 Pro Department
 
-- Price: Paid
+- Price:
+  - $249
+  - $449 (2yr)
+  - $599 (3yr)
 - Level: 
   - Company (Sparanoid, Inc.)
   - Department (DevOps)
@@ -39,24 +50,24 @@ Awesome S/MIME CA that still survied.
 - Level: 
   - * PersonalSign 2 Pro + Class 3 level of identity assurance
 
-## [IdenTrust](https://www.identrust.com/secureemail/index.html)
+## [IdenTrust](https://www.identrust.com/certificates/trustid.html)
 
 ### TrustID Secure Email
 
-- Price: Paid
+- Price: $19
 - Level:
   - Email address (t@sparanoid.com)
 
 ### TrustID Personal Certificate
 
-- Price: Paid
+- Price: $39
 - Level: 
   - Individuals name (Tunghsiao Liu)
   - Email address (t@sparanoid.com)
 
 ### TrustID Business Certificate
 
-- Price: Paid
+- Price: $79
 - Level: 
   - Company (Sparanoid, Inc.)
   - Individuals name (Tunghsiao Liu)
@@ -66,20 +77,29 @@ Awesome S/MIME CA that still survied.
 
 ### Basic ID
 
-- Price: Paid
+- Price:
+  - €10 (1yr, €9 for renewal)
+  - €17 (2yr, €16 for renewal)
+  - €24 (3yr, €22 for renewal)
 - Level:
   - Email address (domain@sparanoid.com)
 
 ### Professional ID
 
-- Price: Paid
+- Price:
+  - €13 (1yr, €12 for renewal)
+  - €22 (2yr, €19 for renewal)
+  - €29 (3yr, €26 for renewal)
 - Level: 
   - Individuals name (Tunghsiao Liu)
   - Email address (t@sparanoid.com)
 
 ### Enterprise ID
 
-- Price: Paid
+- Price:
+  - €29 (1yr, €26 for renewal)
+  - €49 (2yr, €44 for renewal)
+  - €69 (3yr, €63 for renewal)
 - Level: 
   - Company (Sparanoid, Inc.)
   - Individuals name (Tunghsiao Liu)
