@@ -1,6 +1,6 @@
-# Awesome (Survived) S/MIME CA
+# Awesome (Survived) S/MIME CAs
 
-Awesome S/MIME certificate authorities still survie.
+Awesome S/MIME certificate authorities still survive.
 
 ## [GlobalSign PersonalSign](https://www.globalsign.com/en/secure-email/)
 
