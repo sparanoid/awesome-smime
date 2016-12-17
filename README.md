@@ -105,6 +105,14 @@ Awesome S/MIME certificate authorities still survie.
   - Individuals name (Tunghsiao Liu)
   - Email address (t@sparanoid.com)
 
+## [Instant SSL (Comodo)](https://www.instantssl.com/ssl-certificate-products/free-email-certificate.html)
+
+### Free Email Certificate
+
+- Price: Free
+- Level: 
+  - Email address (t@sparanoid.com)
+
 ## [Secorio](https://www.secorio.com/en/)
 
 ### Private S/MIME (Class1)
@@ -113,11 +121,3 @@ Awesome S/MIME certificate authorities still survie.
 - Level:
   - Email address (domain@sparanoid.com)
 - Note: The certificate will be issued by Comodo, Secorio states that they're a strategic partner of Comodo.
-
-## [Instant SSL (Comodo)](https://www.instantssl.com/ssl-certificate-products/free-email-certificate.html)
-
-### Free Email Certificate
-
-- Price: Free
-- Level: 
-  - Email address (t@sparanoid.com)
