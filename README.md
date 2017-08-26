@@ -105,6 +105,32 @@ Awesome S/MIME certificate authorities still survive.
   - Individuals name (Tunghsiao Liu)
   - Email address (t@sparanoid.com)
 
+## [SwissSign](https://www.swisssign.com/en/personal-certificates)
+
+### E-Mail ID Silver
+
+- Price:
+  - $39
+  - $68 (2yr)
+  - $79 (3yr)
+- Level:
+  - Email address (t@sparanoid.com)
+
+### E-Mail ID Gold
+
+- Price:
+  - $49
+  - $86 (2yr)
+  - $109 (3yr)
+- Level: 
+  - Company (Sparanoid, Inc.), additional fee required
+  - Individuals name (Tunghsiao Liu)
+  - Email address (t@sparanoid.com)
+
+## [DigiCert](https://www.digicert.com/client-certificates/)
+
+Quote required
+
 ## [Instant SSL (Comodo)](https://www.instantssl.com/ssl-certificate-products/free-email-certificate.html)
 
 ### Free Email Certificate
